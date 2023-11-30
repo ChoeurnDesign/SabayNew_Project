@@ -1,0 +1,10 @@
+.text-decoration: none;​​ លុបបន្ទាត់ពីក្រោយ​ a tag
+.opacity: 0.6; ពណ៍ស្រអាប
+
+*Example for click then it zoom to us to see more letter
+before hover:height: 40px;
+top: 60%;
+after hover:height: 80px;
+top: 30%;
+
+.z-index: 20; អាណាធំនៅលើ​ or z-index: -1; ផ្ទុយ
